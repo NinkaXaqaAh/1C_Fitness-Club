@@ -16,14 +16,14 @@ In the "Memberships and Visits" document, you can:
 - Weekly — 650  
 - Single Visit — 250  
 
-✅ *Price is filled in automatically upon selection.*
+*Price is filled in automatically upon selection.*
 
 ### Additional Features in the Tabular Section:
 
-🔹 "Brought a Friend" (Boolean flag)  
+"Brought a Friend" (Boolean flag)  
 → If true, a 15% discount is applied to the membership cost.
 
-🔹 Automatic End Date Calculation  
+Automatic End Date Calculation  
 → End date is calculated automatically for:  
  • Weekly  
  • Monthly  
