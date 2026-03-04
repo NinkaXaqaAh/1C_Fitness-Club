@@ -8,13 +8,7 @@ The database includes a client directory and an information register for client 
 
 In the "Memberships and Visits" document, you can:  
 - Select a client  
-- Add memberships via the tabular section  
-
-### Membership Types (with automatic price insertion):  
-- Annual — 16,250  
-- Monthly — 2,250  
-- Weekly — 650  
-- Single Visit — 250  
+- Add memberships via the tabular section    
 
 *Price is filled in automatically upon selection.*
 
